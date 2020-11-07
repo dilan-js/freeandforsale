@@ -118,7 +118,7 @@ card-body > * {
 }
 
 .price {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 
 /* Rating */
@@ -126,4 +126,8 @@ card-body > * {
 .rating span {
   color: #f0c040;
   margin: 0.1rem;
+}
+
+.rating span:last-child {
+  color: #404040;
 }

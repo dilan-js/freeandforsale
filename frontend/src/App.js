@@ -17,7 +17,7 @@ function App() {
         <header className="row">
           <div>
             <a className="brand" href="/">
-              mernMarket
+              MernMarket
             </a>
           </div>
           <div>
